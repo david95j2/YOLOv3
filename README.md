@@ -27,4 +27,5 @@ nuhup python -m visdom.server &
 ### 2. 데이터
 custom data
 - txt 로만 변환
-coco -> json
+coco -> json 
+annotations labeling...
